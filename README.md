@@ -1,4 +1,4 @@
-# pic_crop_ful_previw
+# pic_crop_full_preview
 кадрирование (обрезка) картинок для просмотра и превью
 
 
